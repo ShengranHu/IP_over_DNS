@@ -1,1 +1,1 @@
-# IP_over_DNS
+# IP over DNS
