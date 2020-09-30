@@ -1,7 +1,8 @@
 # IP over DNS
 
 This project provide full IP connectivity through a local DNS resolver, allowing you to send recursive DNS queries.
-It also set up a HTTP proxy upon the DNS tunnel.
+
+It also sets up a HTTP proxy upon the DNS tunnel.
 
 ## Network Topology
 
